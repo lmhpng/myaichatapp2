@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI 聊伴</string>
+    <string name="settings_title">设置</string>
+    <string name="hint_message">说点什么…</string>
+    <string name="action_send">发送</string>
+    <string name="action_clear">清空对话</string>
+    <string name="action_settings">设置</string>
+    <string name="tts_on">朗读已开启</string>
+    <string name="tts_off">朗读已关闭</string>
+    <string name="confirm_clear_title">清空对话</string>
+    <string name="confirm_clear_message">确定要清空当前对话记录吗？</string>
+    <string name="confirm_clear_ok">清空</string>
+    <string name="confirm_clear_cancel">取消</string>
+    <string name="copied">已复制</string>
+    <string name="error_no_api_key">请先设置 API Key</string>
+</resources>

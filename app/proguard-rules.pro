@@ -1,0 +1,7 @@
+-keep class com.aichat.persona.model.** { *; }
+-keep class com.aichat.persona.api.** { *; }
+-keep class com.aichat.persona.db.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**
